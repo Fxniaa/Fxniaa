@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sascha 👋
 
-<!--
-**Fxniaa/Fxniaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fifth-semester Information Technology student who loves learning *Arduino, IoT, programming, and web development* through real projects.
 
-Here are some ideas to get you started:
+## 🔧 What I'm Working On
+- *Arduino Vehicle Parking Alarm*: a distance-based parking alert system using Arduino Uno (ATmega328P) and HC-SR04 sensor.
+  [View project →](https://github.com/Fxniaa/sascha-it-portfolio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Interests
+- Arduino & IoT
+- C/C++ (Arduino programming)
+- HTML & web development
+- Git & GitHub
+
+## 🎯 My Goal
+To build a strong IT foundation by documenting every step of my learning openly: the wins and the bugs.
+
+## 📫 Let's Connect
+Have feedback or ideas? Open an issue in my [portfolio repository](https://github.com/Fxniaa/sascha-it-portfolio) or leave a comment. I'd love to learn from you!
